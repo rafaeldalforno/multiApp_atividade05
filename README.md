@@ -17,11 +17,11 @@ Link do Deploy: https://multiapp-rafaeldalforno.netlify.app/
 
 - **HTTPS:**
   ```bash
-  git clone https://github.com/Andressavcon/T05-multi-app.git
+  git clone https://github.com/rafaeldalforno/multiApp_atividade05
   ```
 - **SSH:**
   ```bash
-  git clone git@github.com:Andressavcon/T05-multi-app.git
+  git clone https://github.com/rafaeldalforno/multiApp_atividade05
   ```
 
 ### Execução ▶️
@@ -29,7 +29,7 @@ Link do Deploy: https://multiapp-rafaeldalforno.netlify.app/
 - Navegue até o diretório do projeto:
 
   ```bash
-  cd T05-multi-app.
+  cd multiApp_atividade05.
   ```
 
 - Instale as dependências:
