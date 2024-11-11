@@ -7,6 +7,8 @@ O projeto utiliza conceitos abordados no **Módulo 4: React** da Formação Dev 
 
 **Aluno:** [Rafael Dal Forno dos Santos](https://www.github.com/rafaeldalforno)
 
+Link do Deploy: https://multiapp-rafaeldalforno.netlify.app/
+
 ## Configuração e Execução 🛠️
 
 ### Configuração ⚙️
@@ -55,4 +57,4 @@ O projeto utiliza conceitos abordados no **Módulo 4: React** da Formação Dev 
 
 ## Link da Aplicação 🔗
 
-[Link da aplicação](https://multappp.netlify.app/)
+[Link da aplicação](https://multiapp-rafaeldalforno.netlify.app/)
